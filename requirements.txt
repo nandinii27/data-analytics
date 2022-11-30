@@ -1,9 +1,0 @@
-streamlit
-yfinance
-pandas
-datetime
-yahoo_fin
-numpy
-plotly
-matplotlib
-cufflinks
